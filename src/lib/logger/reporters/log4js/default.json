@@ -1,0 +1,11 @@
+{
+	"LOG_LEVEL": "debug",
+	"LOG_FILENAME":  "/var/log/synd/wt.log",
+	"ALLOWED_LEVELS" : [
+		"debug",
+		"info",
+		"warn",
+		"error",
+		"fatal"
+	]
+}
